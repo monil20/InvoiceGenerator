@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.monilandharia.invoice"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.monilandharia.invoice.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.monilandharia.invoice.AddProduct"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name="com.example.monilandharia.invoice.AddClient"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity android:name="com.example.monilandharia.invoice.CompanyDetails" />
+        <activity android:name="com.example.monilandharia.invoice.UpdateProduct" />
+        <activity android:name="com.example.monilandharia.invoice.UpdateClient" />
+        <activity android:name="com.example.monilandharia.invoice.AddInvoice" />
+        <activity
+            android:name="com.example.monilandharia.invoice.SearchClient"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.monilandharia.invoice.Tutorial"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.monilandharia.invoice.SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.monilandharia.invoice.SearchProduct"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.monilandharia.invoice.CaptureSignature"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.monilandharia.invoice.Taxes" />
+        <activity android:name="com.example.monilandharia.invoice.UpdateInvoice" />
+        <activity android:name="com.example.monilandharia.invoice.GeneratePDF" />
+    </application>
+
+</manifest>

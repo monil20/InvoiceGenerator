@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Signature Here..." />
+
+    <LinearLayout
+        android:id="@+id/sign_board"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/text"
+        android:orientation="horizontal" />
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_below="@id/sign_board"-->
+    <!--android:orientation="horizontal">-->
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/reset"
+        android:src="@drawable/ic_action_tick"
+        android:layout_weight="33"
+        android:gravity="center"
+        android:text="OK" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/cancel"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="33"
+        android:src="@drawable/reset"
+        android:gravity="center"
+        android:text="Reset" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_close"
+        android:layout_weight="34"
+        android:gravity="center"
+        android:text="Cancel" />
+
+
+    <!--</LinearLayout>-->
+
+</RelativeLayout>

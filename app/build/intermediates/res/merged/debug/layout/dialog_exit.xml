@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.example.monilandharia.invoice.CustomTextView
+        android:id="@+id/exit_confirm_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:text="Confirm Exit? :&apos;("
+        android:textSize="21dp" />
+
+    <com.example.monilandharia.invoice.CustomTextView
+        android:id="@+id/exit_warning_msg1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/exit_confirm_msg"
+        android:layout_marginTop="5dp"
+        android:layout_centerHorizontal="true"
+        android:text="WARNING: Your have some unsaved stuff!"
+        android:textColor="#ef5350" />
+
+    <com.example.monilandharia.invoice.CustomTextView
+        android:id="@+id/exit_warning_msg2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/exit_warning_msg1"
+        android:layout_centerHorizontal="true"
+        android:text="It might get deleted!"
+        android:textColor="#ef5350" />
+
+    <LinearLayout
+        android:id="@+id/descLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/exit_warning_msg2"
+        android:layout_marginBottom="-10dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/exit_cancel"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:padding="12dp"
+            android:text="Cancel"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/exit_ok"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:padding="12dp"
+            android:text="OK"
+            android:textAllCaps="false"
+            android:textColor="#009688" />
+    </LinearLayout>
+
+</RelativeLayout>

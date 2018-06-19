@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:appcompat="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.monilandharia.invoice.MainActivity">
+
+    <item
+        android:id="@+id/pdf"
+        android:title="Generate PDF"
+        android:orderInCategory="79"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:icon="@drawable/pdf1" />
+</menu>

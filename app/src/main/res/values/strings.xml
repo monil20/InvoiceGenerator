@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Invoice++</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_label">String</string>
+    <string name="search_hint">Client Name</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string-array name="nav_drawer_labels">
+        <item>@string/title_invoice</item>
+        <item>@string/title_product</item>
+        <item>@string/title_client</item>
+        <item>@string/title_settings</item>
+    </string-array>
+
+    <string name="title_product">Product</string>
+    <string name="title_client">Client</string>
+    <string name="title_invoice">Invoice</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="external_dir">GetSignature</string>
+
+</resources>

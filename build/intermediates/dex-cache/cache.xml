@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.wang.avi/library/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5035aaf60d244038bb143ffad4fbb7cba92ecdc7">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/com.wang.avi-library-1.0.5_45cd595dafbfe63076598f41bbb1f5ecb9c5be84.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_46adf3a50d1c9dcdcf1eaa0ca578ced268651ceb.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.2.1_4b5f6e1b9166ad386ad033a0c86ef000e30c6b10.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_53992ed6cc16f4d8f5fbf372ab0cdf10a0489bd4.jar" />
+    </item>
+    <item
+        jar="/home/monil20/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_c05e3d255780b9ab1d6cb4aa0c96345887b7e727.jar" />
+    </item>
+    <item
+        jar="/home/monil20/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0_3b46d4efa355fce8bb8a9922c81bf9d6c87db5d2.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_7fe8ac8091235aa44ebbc1e4f4430eda4de8861d.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/com.github.markushi-circlebutton-1.1_f80d24910cd72b26e83d58524dd67fddef3d7cea.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_0f02d5718ffc3c284ab3c60e0928636a0fd99f72.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_e61431b6567d5496187ccdfa65abb69423c6c302.jar" />
+    </item>
+    <item
+        jar="/home/monil20/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/library-2.4.0_0bd97cfb7b689a16e9bc48e7eed1e71a65c941e9.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_7b9f1813849eaa68a929fef02a533338b812f9fd.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_332c76ed1832c97cfb03e15a4fd8839c51caba25.jar" />
+    </item>
+    <item
+        jar="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_040979d60478b36207b317780bd068cb75daef12.jar" />
+    </item>
+    <item
+        jar="/home/monil20/.gradle/caches/modules-2/files-2.1/com.itextpdf/itextg/5.5.9/3580383b2c7db8fa2fee1ffbe1993017a9ea296e/itextg-5.5.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3580383b2c7db8fa2fee1ffbe1993017a9ea296e">
+        <dex dex="/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/pre-dexed/debug/itextg-5.5.9_319718744c5fb8b1bde0b4bf49961eda8c4fcef8.jar" />
+    </item>
+
+</items>

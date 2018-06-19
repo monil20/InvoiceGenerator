@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cardview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:descendantFocusability="blocksDescendants"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2.5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="2.5dp"
+        cardview:cardCornerRadius="7dp"
+        cardview:cardElevation="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="15dp">
+
+            <com.example.monilandharia.invoice.CustomTextView
+                android:id="@+id/taxNumber"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_height="wrap_content"
+                android:text="SBC1" />
+
+            <com.example.monilandharia.invoice.CustomTextView
+                android:id="@+id/taxRate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="31dp"
+                android:layout_marginStart="31dp"
+                android:text="0.5%"
+                android:layout_toRightOf="@+id/taxNumber"
+                android:layout_toEndOf="@+id/taxNumber" />
+
+            <com.example.monilandharia.invoice.CustomTextView
+                android:id="@+id/taxType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Swachh Bharat Cess"
+                android:layout_alignTop="@+id/taxRate"
+                android:layout_toRightOf="@+id/taxRate"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/taxRate"
+                android:layout_marginLeft="31dp"
+                android:layout_marginStart="31dp" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/taxFlag"
+                android:clickable="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:checked="false" />
+
+            <com.example.monilandharia.invoice.CustomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/RATE_when_do_nothing"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true" />
+
+            <com.example.monilandharia.invoice.CustomTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/TYPE_when_do_nothing"
+                android:layout_centerVertical="true"
+                android:layout_alignRight="@+id/taxFlag"
+                android:layout_alignEnd="@+id/taxFlag" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tax_id"
+                android:layout_alignTop="@+id/taxType"
+                android:layout_alignLeft="@+id/RATE_when_do_nothing"
+                android:layout_alignStart="@+id/RATE_when_do_nothing" />
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+</RelativeLayout>

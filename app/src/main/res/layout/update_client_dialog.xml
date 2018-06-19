@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/bullet_big" />
+
+        <TextView
+            android:id="@+id/dialog_client_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:text="1"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ffffff" />
+
+        <EditText
+            android:id="@+id/dialog_client_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="14.5dp"
+            android:gravity="center"
+            android:hint="Client Number"
+            android:inputType="textCapWords"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/dialog_client_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dialog_client_number"
+            android:layout_centerHorizontal="true"
+            android:gravity="top|left"
+            android:hint="Client Name"
+            android:inputType="textCapWords"
+            android:lines="5"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/dialog_client_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dialog_client_name"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:hint="Email"
+            android:inputType="number"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/dialog_client_addr1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dialog_client_email"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:hint="Address Line 1"
+            android:inputType="number"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/dialog_client_addr2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dialog_client_addr1"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:hint="Address Line 2"
+            android:inputType="textCapWords"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/dialog_client_addr3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dialog_client_addr2"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:hint="Address Line 3"
+            android:inputType="textCapWords"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/dialog_client_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dialog_client_addr3"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:hint="City"
+            android:inputType="textCapWords"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/dialog_client_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dialog_client_city"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:hint="State"
+            android:inputType="textCapWords"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/dialog_client_website"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/dialog_client_state"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:hint="Website"
+            android:inputType="textCapWords"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <Button
+            android:id="@+id/dialog_client_update_button"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/dialog_client_website"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/round_button"
+            android:drawableLeft="@android:drawable/ic_menu_edit"
+            android:paddingLeft="10dp" />
+
+    </RelativeLayout>
+
+</ScrollView>

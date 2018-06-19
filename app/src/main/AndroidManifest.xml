@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.monilandharia.invoice">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".AddProduct"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity
+            android:name=".AddClient"
+            android:windowSoftInputMode="stateUnchanged" />
+        <activity android:name=".CompanyDetails" />
+        <activity android:name=".UpdateProduct" />
+        <activity android:name=".UpdateClient" />
+        <activity android:name=".AddInvoice" />
+        <activity
+            android:name=".SearchClient"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Tutorial"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SearchProduct"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CaptureSignature"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Taxes" />
+        <activity android:name=".UpdateInvoice" />
+        <activity android:name=".GeneratePDF"></activity>
+    </application>
+
+</manifest>

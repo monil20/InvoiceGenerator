@@ -1,0 +1,200 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.monilandharia.invoice.Settings">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:src="@drawable/frame"
+        android:layout_marginTop="61dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Company Details"
+        android:id="@+id/company_details"
+        android:textAllCaps="false"
+        android:theme="@style/MyButton"
+        style="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:layout_marginLeft="54dp"
+        android:layout_marginStart="54dp"
+        android:layout_marginTop="73dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Taxes"
+        android:textAllCaps="false"
+        android:theme="@style/MyButton"
+        style="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:id="@+id/taxes"
+        android:layout_alignTop="@+id/company_details"
+        android:layout_toRightOf="@+id/company_details"
+        android:layout_toEndOf="@+id/company_details"
+        android:layout_marginLeft="24dp"
+        android:layout_marginStart="24dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Invoice Prefix"
+        android:theme="@style/MyButton"
+        style="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:id="@+id/invoice_prefix"
+        android:textAllCaps="false"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/company_details"
+        android:layout_alignLeft="@+id/company_details"
+        android:layout_alignStart="@+id/company_details"
+        android:layout_toLeftOf="@+id/taxes"
+        android:layout_toStartOf="@+id/taxes" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Currency"
+        android:theme="@style/MyButton"
+        style="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:id="@+id/currency"
+        android:textAllCaps="false"
+        android:layout_alignTop="@+id/invoice_prefix"
+        android:layout_alignLeft="@+id/taxes"
+        android:layout_alignStart="@+id/taxes" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vendor Number"
+        android:theme="@style/MyButton"
+        style="@style/Base.Widget.AppCompat.Button.Borderless"
+        android:id="@+id/vendor_num"
+        android:layout_marginTop="10dp"
+        android:textAllCaps="false"
+        android:layout_below="@+id/invoice_prefix"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" us? "
+        android:drawableLeft="@drawable/heart"
+        android:textColor="#000000"
+        android:id="@+id/textView2"
+        android:layout_marginTop="24dp"
+        android:layout_below="@+id/imageView3"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upgrade to PRO!! "
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="2dp"
+        android:id="@+id/textView7"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/feedback"
+        android:src="@drawable/feedback"
+        android:layout_marginTop="32dp"
+        android:layout_below="@+id/textView7"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/info"
+        android:src="@drawable/info"
+        android:layout_alignTop="@+id/feedback"
+        android:layout_toLeftOf="@+id/vendor_num"
+        android:layout_toStartOf="@+id/vendor_num" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/share"
+        android:layout_marginLeft="-10dp"
+        android:src="@drawable/share"
+        android:layout_alignTop="@+id/feedback"
+        android:layout_toRightOf="@+id/textView4"
+        android:layout_toEndOf="@+id/textView4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="About"
+        android:id="@+id/textView3"
+        android:textColor="#000000"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/feedback"
+        android:layout_alignLeft="@+id/info"
+        android:layout_alignStart="@+id/info" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Feedback          "
+        android:textColor="#000000"
+        android:id="@+id/textView4"
+        android:layout_alignTop="@+id/textView3"
+        android:layout_alignRight="@+id/vendor_num"
+        android:layout_alignEnd="@+id/vendor_num" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Share"
+        android:id="@+id/textView5"
+        android:textColor="#000000"
+        android:layout_alignTop="@+id/textView4"
+        android:layout_alignLeft="@+id/share"
+        android:layout_alignStart="@+id/share" />
+
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ratingBar"
+        android:theme="@style/MyRatingBar"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rate your experience"
+        android:id="@+id/textView6"
+        android:textColor="#000000"
+        android:layout_marginTop="-10dp"
+        android:layout_below="@+id/ratingBar"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="  Basic Settings :"
+        android:id="@+id/textView8"
+        android:textColor="#000000"
+        android:layout_marginBottom="15dp"
+        android:layout_above="@+id/taxes"
+        android:layout_alignLeft="@+id/imageView3"
+        android:layout_alignStart="@+id/imageView3" />
+
+</RelativeLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:src="@drawable/bullet_big"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="1"
+        android:id="@+id/dialog_prod_id"
+        android:textColor="#ffffff"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:hint="Product Title"
+        android:inputType="textCapWords"
+        android:id="@+id/dialog_client_number"
+        android:gravity="center"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="14.5dp"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:hint="Description"
+        android:inputType="textMultiLine"
+        android:gravity="top|left"
+        android:singleLine="false"
+        android:lines="5"
+        android:id="@+id/dialog_client_name"
+        android:layout_below="@+id/dialog_client_number"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:hint="Quantity"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:inputType="number"
+        android:id="@+id/dialog_client_email"
+        android:layout_below="@+id/dialog_client_name"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:hint="Rate"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:inputType="number"
+        android:id="@+id/dialog_client_addr1"
+        android:layout_below="@+id/dialog_client_email"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:hint="Description"
+        android:inputType="textCapWords"
+        android:gravity="center"
+        android:id="@+id/dialog_client_addr2"
+        android:layout_below="@+id/dialog_client_addr1"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/dialog_prod_update_button"
+        android:drawableLeft="@android:drawable/ic_menu_edit"
+        android:paddingLeft="10dp"
+        android:background="@drawable/round_button"
+        android:layout_below="@+id/dialog_client_addr2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="30dp" />
+
+</RelativeLayout>

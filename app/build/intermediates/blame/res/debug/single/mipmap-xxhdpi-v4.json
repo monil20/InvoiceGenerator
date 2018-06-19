@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/logo.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/mipmap-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\logo.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

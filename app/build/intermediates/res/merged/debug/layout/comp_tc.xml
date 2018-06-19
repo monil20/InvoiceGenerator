@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/textContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        app:counterEnabled="true"
+        app:counterOverflowTextAppearance="@style/MyOverflowText"
+        app:counterMaxLength="300">
+        <EditText
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="top|left"
+            android:lines="5"
+            android:hint="Insert your Terms and Conditions" />
+    </android.support.design.widget.TextInputLayout>
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textContainer"
+        android:orientation="horizontal">
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/tc_save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textContainer"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:layout_gravity="left"
+            android:layout_marginBottom="20dp"
+            android:background="#00897b"
+            android:textColor="#FFFFFF"
+            android:padding="12dp"
+            android:text="OK" />
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/tc_reset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textContainer"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:layout_gravity="right"
+            android:layout_marginBottom="20dp"
+            android:background="#00897b"
+            android:textColor="#FFFFFF"
+            android:padding="12dp"
+            android:text="Reset" />
+
+    </LinearLayout>
+
+</RelativeLayout>

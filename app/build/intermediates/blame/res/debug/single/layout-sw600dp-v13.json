@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

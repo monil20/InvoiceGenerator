@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/frame.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/frame.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/delete.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/delete.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/feedback.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/feedback.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/pdf1.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/pdf1.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comp_logo.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\comp_logo.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/back.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/bullet.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/bullet.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/round_button.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/round_button.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trees.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\trees.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/plus.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_button.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/next.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/next.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/fab_with_actions.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/fab_with_actions.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/bullet_big.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/bullet_big.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pro.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\pro.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/comp_logo.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/comp_logo.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/fab_label_background.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/fab_label_background.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bullet.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\bullet.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/app_settings.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/app_settings.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/trees.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/trees.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pdf.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\pdf.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bullet_big.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\bullet_big.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/navigation_drawer.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/navigation_drawer.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\invoice_logo.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\invoice_logo.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_tick.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\ic_action_tick.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/heart.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/heart.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/pdf.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/pdf.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_settings.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\app_settings.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_drawer.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\navigation_drawer.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/info.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/info.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/gallery.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/gallery.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/ic_action_tick.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/ic_action_tick.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_label_background.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/edit.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/edit.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_with_actions.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\fab_with_actions.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\frame.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\frame.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/pro.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/pro.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/share.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/share.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pdf1.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\pdf1.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gallery.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/camera.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/camera.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/invoice_logo.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/src/main/res/drawable/invoice_logo.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\feedback.png",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/monil20/AndroidStudioProjects/Invoice++/C:\\Projects\\Invoice++\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    }
+]
